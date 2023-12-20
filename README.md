@@ -18,7 +18,7 @@ There are 3 types of Design Patterns.
 
 ## List of Design Patterns
 
-- [Singleton Design Pattern]()
+- [Singleton Design Pattern](/SingletonDesignPattern/Readme.md)
 - [Factory Design Pattern]()
 - [Builder Design Pattern]()
 - [ProtoType Design Pattern]()
